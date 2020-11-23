@@ -1,6 +1,6 @@
 {
   "name": "perfect-scrollbar",
-  "version": "1.5.0",
+  "version": "1.5.1-keldoc",
   "description": "Minimalistic but perfect custom scrollbar plugin",
   "author": "Hyunje Jun <me@noraesae.net>",
   "keywords": [
@@ -18,6 +18,9 @@
   "jspm": {
     "main": "dist/perfect-scrollbar.common.js",
     "registry": "jspm"
+  },
+  "publishConfig": {
+    "registry": "https://nexus.keldoc.com/repository/npm-hosted/"
   },
   "main": "dist/perfect-scrollbar.common.js",
   "module": "dist/perfect-scrollbar.esm.js",
