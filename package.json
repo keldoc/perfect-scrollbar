@@ -1,5 +1,5 @@
 {
-  "name": "perfect-scrollbar",
+  "name": "@keldoc/perfect-scrollbar",
   "version": "1.5.0-keldoc.0",
   "description": "Minimalistic but perfect custom scrollbar plugin",
   "author": "Hyunje Jun <me@noraesae.net>",
